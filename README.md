@@ -15,7 +15,6 @@ Node V12.14.1
 React V16.12.0
 	
 ## Setup
-To run this project, install modules using pip:
 
 ```
 cd my-app
