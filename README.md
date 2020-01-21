@@ -1,4 +1,4 @@
-# Tic-Taco-Toe
+# Tic-Tac-Toe
 
 
 ## Table of contents
